@@ -1,4 +1,20 @@
 #BlueJ class context
 comment0.params=descripcion
 comment0.target=Tarea(java.lang.String)
-numComments=1
+comment1.params=
+comment1.target=java.lang.String\ getTarea()
+comment2.params=
+comment2.target=void\ marcarComoCompletada()
+comment3.params=
+comment3.target=boolean\ tareaCompletada()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=establecerPrioridad
+comment5.target=void\ cambiarPrioridad(int)
+comment6.params=
+comment6.target=int\ getPrioridad()
+comment7.params=anio\ mes\ dia
+comment7.target=void\ setFecha(int,\ int,\ int)
+comment8.params=
+comment8.target=java.time.LocalDate\ getFecha()
+numComments=9
